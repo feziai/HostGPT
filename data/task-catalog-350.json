@@ -1,0 +1,2456 @@
+{
+  "count": 350,
+  "disclaimer": "Task definitions, not 350 completed remote operations",
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "category": "github-upload",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-002",
+      "category": "github-upload",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-003",
+      "category": "github-upload",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-004",
+      "category": "github-upload",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-005",
+      "category": "github-upload",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-006",
+      "category": "github-upload",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-007",
+      "category": "github-upload",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-008",
+      "category": "github-upload",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-009",
+      "category": "github-upload",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-010",
+      "category": "github-upload",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-011",
+      "category": "github-edit",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-012",
+      "category": "github-edit",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-013",
+      "category": "github-edit",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-014",
+      "category": "github-edit",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-015",
+      "category": "github-edit",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-016",
+      "category": "github-edit",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-017",
+      "category": "github-edit",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-018",
+      "category": "github-edit",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-019",
+      "category": "github-edit",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-020",
+      "category": "github-edit",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-021",
+      "category": "github-branch",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-022",
+      "category": "github-branch",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-023",
+      "category": "github-branch",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-024",
+      "category": "github-branch",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-025",
+      "category": "github-branch",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-026",
+      "category": "github-branch",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-027",
+      "category": "github-branch",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-028",
+      "category": "github-branch",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-029",
+      "category": "github-branch",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-030",
+      "category": "github-branch",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-031",
+      "category": "github-pr",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-032",
+      "category": "github-pr",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-033",
+      "category": "github-pr",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-034",
+      "category": "github-pr",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-035",
+      "category": "github-pr",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-036",
+      "category": "github-pr",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-037",
+      "category": "github-pr",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-038",
+      "category": "github-pr",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-039",
+      "category": "github-pr",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-040",
+      "category": "github-pr",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-041",
+      "category": "github-release",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-042",
+      "category": "github-release",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-043",
+      "category": "github-release",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-044",
+      "category": "github-release",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-045",
+      "category": "github-release",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-046",
+      "category": "github-release",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-047",
+      "category": "github-release",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-048",
+      "category": "github-release",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-049",
+      "category": "github-release",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-050",
+      "category": "github-release",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-051",
+      "category": "github-security",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-052",
+      "category": "github-security",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-053",
+      "category": "github-security",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-054",
+      "category": "github-security",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-055",
+      "category": "github-security",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-056",
+      "category": "github-security",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-057",
+      "category": "github-security",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-058",
+      "category": "github-security",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-059",
+      "category": "github-security",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-060",
+      "category": "github-security",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-061",
+      "category": "github-actions",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-062",
+      "category": "github-actions",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-063",
+      "category": "github-actions",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-064",
+      "category": "github-actions",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-065",
+      "category": "github-actions",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-066",
+      "category": "github-actions",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-067",
+      "category": "github-actions",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-068",
+      "category": "github-actions",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-069",
+      "category": "github-actions",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-070",
+      "category": "github-actions",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-071",
+      "category": "github-review",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-072",
+      "category": "github-review",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-073",
+      "category": "github-review",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-074",
+      "category": "github-review",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-075",
+      "category": "github-review",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-076",
+      "category": "github-review",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-077",
+      "category": "github-review",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-078",
+      "category": "github-review",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-079",
+      "category": "github-review",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-080",
+      "category": "github-review",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-081",
+      "category": "github-recovery",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-082",
+      "category": "github-recovery",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-083",
+      "category": "github-recovery",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-084",
+      "category": "github-recovery",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-085",
+      "category": "github-recovery",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-086",
+      "category": "github-recovery",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-087",
+      "category": "github-recovery",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-088",
+      "category": "github-recovery",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-089",
+      "category": "github-recovery",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-090",
+      "category": "github-recovery",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-091",
+      "category": "github-automation",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-092",
+      "category": "github-automation",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-093",
+      "category": "github-automation",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-094",
+      "category": "github-automation",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-095",
+      "category": "github-automation",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-096",
+      "category": "github-automation",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-097",
+      "category": "github-automation",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-098",
+      "category": "github-automation",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-099",
+      "category": "github-automation",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-100",
+      "category": "github-automation",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-101",
+      "category": "host-deploy",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-102",
+      "category": "host-deploy",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-103",
+      "category": "host-deploy",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-104",
+      "category": "host-deploy",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-105",
+      "category": "host-deploy",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-106",
+      "category": "host-deploy",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-107",
+      "category": "host-deploy",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-108",
+      "category": "host-deploy",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-109",
+      "category": "host-deploy",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-110",
+      "category": "host-deploy",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-111",
+      "category": "host-backup",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-112",
+      "category": "host-backup",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-113",
+      "category": "host-backup",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-114",
+      "category": "host-backup",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-115",
+      "category": "host-backup",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-116",
+      "category": "host-backup",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-117",
+      "category": "host-backup",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-118",
+      "category": "host-backup",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-119",
+      "category": "host-backup",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-120",
+      "category": "host-backup",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-121",
+      "category": "host-restore",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-122",
+      "category": "host-restore",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-123",
+      "category": "host-restore",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-124",
+      "category": "host-restore",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-125",
+      "category": "host-restore",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-126",
+      "category": "host-restore",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-127",
+      "category": "host-restore",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-128",
+      "category": "host-restore",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-129",
+      "category": "host-restore",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-130",
+      "category": "host-restore",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-131",
+      "category": "host-monitor",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-132",
+      "category": "host-monitor",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-133",
+      "category": "host-monitor",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-134",
+      "category": "host-monitor",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-135",
+      "category": "host-monitor",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-136",
+      "category": "host-monitor",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-137",
+      "category": "host-monitor",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-138",
+      "category": "host-monitor",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-139",
+      "category": "host-monitor",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-140",
+      "category": "host-monitor",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-141",
+      "category": "host-security",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-142",
+      "category": "host-security",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-143",
+      "category": "host-security",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-144",
+      "category": "host-security",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-145",
+      "category": "host-security",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-146",
+      "category": "host-security",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-147",
+      "category": "host-security",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-148",
+      "category": "host-security",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-149",
+      "category": "host-security",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-150",
+      "category": "host-security",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-151",
+      "category": "host-ssl",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-152",
+      "category": "host-ssl",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-153",
+      "category": "host-ssl",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-154",
+      "category": "host-ssl",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-155",
+      "category": "host-ssl",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-156",
+      "category": "host-ssl",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-157",
+      "category": "host-ssl",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-158",
+      "category": "host-ssl",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-159",
+      "category": "host-ssl",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-160",
+      "category": "host-ssl",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-161",
+      "category": "host-dns",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-162",
+      "category": "host-dns",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-163",
+      "category": "host-dns",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-164",
+      "category": "host-dns",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-165",
+      "category": "host-dns",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-166",
+      "category": "host-dns",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-167",
+      "category": "host-dns",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-168",
+      "category": "host-dns",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-169",
+      "category": "host-dns",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-170",
+      "category": "host-dns",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-171",
+      "category": "host-resource",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-172",
+      "category": "host-resource",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-173",
+      "category": "host-resource",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-174",
+      "category": "host-resource",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-175",
+      "category": "host-resource",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-176",
+      "category": "host-resource",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-177",
+      "category": "host-resource",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-178",
+      "category": "host-resource",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-179",
+      "category": "host-resource",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-180",
+      "category": "host-resource",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-181",
+      "category": "host-logs",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-182",
+      "category": "host-logs",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-183",
+      "category": "host-logs",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-184",
+      "category": "host-logs",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-185",
+      "category": "host-logs",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-186",
+      "category": "host-logs",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-187",
+      "category": "host-logs",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-188",
+      "category": "host-logs",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-189",
+      "category": "host-logs",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-190",
+      "category": "host-logs",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-191",
+      "category": "host-rollback",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-192",
+      "category": "host-rollback",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-193",
+      "category": "host-rollback",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-194",
+      "category": "host-rollback",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-195",
+      "category": "host-rollback",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-196",
+      "category": "host-rollback",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-197",
+      "category": "host-rollback",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-198",
+      "category": "host-rollback",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-199",
+      "category": "host-rollback",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-200",
+      "category": "host-rollback",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-201",
+      "category": "ai-ollama",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-202",
+      "category": "ai-ollama",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-203",
+      "category": "ai-ollama",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-204",
+      "category": "ai-ollama",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-205",
+      "category": "ai-ollama",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-206",
+      "category": "ai-ollama",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-207",
+      "category": "ai-ollama",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-208",
+      "category": "ai-ollama",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-209",
+      "category": "ai-ollama",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-210",
+      "category": "ai-ollama",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-211",
+      "category": "ai-qwen",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-212",
+      "category": "ai-qwen",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-213",
+      "category": "ai-qwen",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-214",
+      "category": "ai-qwen",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-215",
+      "category": "ai-qwen",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-216",
+      "category": "ai-qwen",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-217",
+      "category": "ai-qwen",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-218",
+      "category": "ai-qwen",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-219",
+      "category": "ai-qwen",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-220",
+      "category": "ai-qwen",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-221",
+      "category": "ai-dolphin",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-222",
+      "category": "ai-dolphin",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-223",
+      "category": "ai-dolphin",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-224",
+      "category": "ai-dolphin",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-225",
+      "category": "ai-dolphin",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-226",
+      "category": "ai-dolphin",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-227",
+      "category": "ai-dolphin",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-228",
+      "category": "ai-dolphin",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-229",
+      "category": "ai-dolphin",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-230",
+      "category": "ai-dolphin",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-231",
+      "category": "ai-deepseek",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-232",
+      "category": "ai-deepseek",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-233",
+      "category": "ai-deepseek",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-234",
+      "category": "ai-deepseek",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-235",
+      "category": "ai-deepseek",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-236",
+      "category": "ai-deepseek",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-237",
+      "category": "ai-deepseek",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-238",
+      "category": "ai-deepseek",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-239",
+      "category": "ai-deepseek",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-240",
+      "category": "ai-deepseek",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-241",
+      "category": "ai-heretic",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-242",
+      "category": "ai-heretic",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-243",
+      "category": "ai-heretic",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-244",
+      "category": "ai-heretic",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-245",
+      "category": "ai-heretic",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-246",
+      "category": "ai-heretic",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-247",
+      "category": "ai-heretic",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-248",
+      "category": "ai-heretic",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-249",
+      "category": "ai-heretic",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-250",
+      "category": "ai-heretic",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-251",
+      "category": "image-comfyui",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-252",
+      "category": "image-comfyui",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-253",
+      "category": "image-comfyui",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-254",
+      "category": "image-comfyui",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-255",
+      "category": "image-comfyui",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-256",
+      "category": "image-comfyui",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-257",
+      "category": "image-comfyui",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-258",
+      "category": "image-comfyui",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-259",
+      "category": "image-comfyui",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-260",
+      "category": "image-comfyui",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-261",
+      "category": "image-flux",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-262",
+      "category": "image-flux",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-263",
+      "category": "image-flux",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-264",
+      "category": "image-flux",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-265",
+      "category": "image-flux",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-266",
+      "category": "image-flux",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-267",
+      "category": "image-flux",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-268",
+      "category": "image-flux",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-269",
+      "category": "image-flux",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-270",
+      "category": "image-flux",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-271",
+      "category": "image-sdxl",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-272",
+      "category": "image-sdxl",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-273",
+      "category": "image-sdxl",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-274",
+      "category": "image-sdxl",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-275",
+      "category": "image-sdxl",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-276",
+      "category": "image-sdxl",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-277",
+      "category": "image-sdxl",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-278",
+      "category": "image-sdxl",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-279",
+      "category": "image-sdxl",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-280",
+      "category": "image-sdxl",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-281",
+      "category": "video-wan",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-282",
+      "category": "video-wan",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-283",
+      "category": "video-wan",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-284",
+      "category": "video-wan",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-285",
+      "category": "video-wan",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-286",
+      "category": "video-wan",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-287",
+      "category": "video-wan",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-288",
+      "category": "video-wan",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-289",
+      "category": "video-wan",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-290",
+      "category": "video-wan",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-291",
+      "category": "video-ltx",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-292",
+      "category": "video-ltx",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-293",
+      "category": "video-ltx",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-294",
+      "category": "video-ltx",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-295",
+      "category": "video-ltx",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-296",
+      "category": "video-ltx",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-297",
+      "category": "video-ltx",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-298",
+      "category": "video-ltx",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-299",
+      "category": "video-ltx",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-300",
+      "category": "video-ltx",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-301",
+      "category": "mcp",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-302",
+      "category": "mcp",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-303",
+      "category": "mcp",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-304",
+      "category": "mcp",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-305",
+      "category": "mcp",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-306",
+      "category": "mcp",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-307",
+      "category": "mcp",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-308",
+      "category": "mcp",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-309",
+      "category": "mcp",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-310",
+      "category": "mcp",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-311",
+      "category": "auth",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-312",
+      "category": "auth",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-313",
+      "category": "auth",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-314",
+      "category": "auth",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-315",
+      "category": "auth",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-316",
+      "category": "auth",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-317",
+      "category": "auth",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-318",
+      "category": "auth",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-319",
+      "category": "auth",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-320",
+      "category": "auth",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-321",
+      "category": "audit",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-322",
+      "category": "audit",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-323",
+      "category": "audit",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-324",
+      "category": "audit",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-325",
+      "category": "audit",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-326",
+      "category": "audit",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-327",
+      "category": "audit",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-328",
+      "category": "audit",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-329",
+      "category": "audit",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-330",
+      "category": "audit",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-331",
+      "category": "documentation",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-332",
+      "category": "documentation",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-333",
+      "category": "documentation",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-334",
+      "category": "documentation",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-335",
+      "category": "documentation",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-336",
+      "category": "documentation",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-337",
+      "category": "documentation",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-338",
+      "category": "documentation",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-339",
+      "category": "documentation",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-340",
+      "category": "documentation",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-341",
+      "category": "testing",
+      "operation": "inspect",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-342",
+      "category": "testing",
+      "operation": "validate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-343",
+      "category": "testing",
+      "operation": "plan",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-344",
+      "category": "testing",
+      "operation": "simulate",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-345",
+      "category": "testing",
+      "operation": "compare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-346",
+      "category": "testing",
+      "operation": "report",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-347",
+      "category": "testing",
+      "operation": "review",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-348",
+      "category": "testing",
+      "operation": "verify",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-349",
+      "category": "testing",
+      "operation": "prepare",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    },
+    {
+      "id": "TASK-350",
+      "category": "testing",
+      "operation": "document",
+      "execution": "plan_or_simulation",
+      "remoteExecution": false
+    }
+  ]
+}

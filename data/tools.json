@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Qwen2.5-Coder 1.5B",
+    "category": "model",
+    "mode": "offline",
+    "install": "ollama pull qwen2.5-coder:1.5b",
+    "url": "https://ollama.com/library/qwen2.5-coder"
+  },
+  {
+    "name": "Qwen2.5-Coder 3B",
+    "category": "model",
+    "mode": "offline",
+    "install": "ollama pull qwen2.5-coder:3b",
+    "url": "https://ollama.com/library/qwen2.5-coder"
+  },
+  {
+    "name": "Qwen2.5-Coder 7B",
+    "category": "model",
+    "mode": "offline",
+    "install": "ollama pull qwen2.5-coder:7b",
+    "url": "https://ollama.com/library/qwen2.5-coder"
+  },
+  {
+    "name": "Qwen Code",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "npm install -g @qwen-code/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "name": "Cline",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "VS Code extension; model provider required",
+    "url": "https://github.com/cline/cline"
+  },
+  {
+    "name": "OpenCode",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "See installation instructions",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "name": "OpenHands",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "Docker and supported model required",
+    "url": "https://github.com/All-Hands-AI/OpenHands"
+  },
+  {
+    "name": "Aider",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "python -m pip install aider-install",
+    "url": "https://github.com/Aider-AI/aider"
+  },
+  {
+    "name": "Continue",
+    "category": "coding-agent",
+    "mode": "local-install",
+    "install": "VS Code extension; local Ollama supported",
+    "url": "https://github.com/continuedev/continue"
+  },
+  {
+    "name": "bolt.diy",
+    "category": "app-builder",
+    "mode": "local-install",
+    "install": "Node.js and model provider required",
+    "url": "https://github.com/stackblitz-labs/bolt.diy"
+  },
+  {
+    "name": "Dyad",
+    "category": "app-builder",
+    "mode": "local-install",
+    "install": "Desktop app; provider configuration required",
+    "url": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "provider",
+    "mode": "online",
+    "install": "HF_TOKEN and HF_MODEL server configuration",
+    "url": "https://huggingface.co"
+  },
+  {
+    "name": "GitHub",
+    "category": "git-host",
+    "mode": "online",
+    "install": "GITHUB_TOKEN server configuration",
+    "url": "https://github.com"
+  },
+  {
+    "name": "Codeberg",
+    "category": "git-host",
+    "mode": "online",
+    "install": "External link; native integration pending",
+    "url": "https://codeberg.org"
+  },
+  {
+    "name": "GitLab",
+    "category": "git-host",
+    "mode": "online",
+    "install": "External link; native integration pending",
+    "url": "https://gitlab.com"
+  },
+  {
+    "name": "Bitbucket",
+    "category": "git-host",
+    "mode": "online",
+    "install": "External link; native integration pending",
+    "url": "https://bitbucket.org"
+  },
+  {
+    "name": "ChatGPT",
+    "category": "ai-service",
+    "mode": "online",
+    "install": "External link; API requires separate key",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "name": "Claude",
+    "category": "ai-service",
+    "mode": "online",
+    "install": "External link; API requires separate key",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Telegram",
+    "category": "messaging",
+    "mode": "online",
+    "install": "Bot integration pending",
+    "url": "https://telegram.org"
+  },
+  {
+    "name": "ComfyUI",
+    "category": "image-workflow",
+    "mode": "local-install",
+    "install": "Requires compatible local image model and hardware",
+    "url": "https://github.com/comfyanonymous/ComfyUI"
+  },
+  {
+    "name": "Qwen3.8 27B (Alibaba)",
+    "category": "model",
+    "mode": "offline-heavy",
+    "install": "Download quantized weights; high RAM/GPU required",
+    "url": "https://huggingface.co/Qwen"
+  },
+  {
+    "name": "Qwen3.5 0.8B (Alibaba)",
+    "category": "model",
+    "mode": "offline-light",
+    "install": "Download from official Hugging Face; install compatible runtime",
+    "url": "https://huggingface.co/Qwen"
+  },
+  {
+    "name": "Qwen3.6 35B A3B",
+    "category": "model",
+    "mode": "offline-heavy",
+    "install": "Download official weights; requires capable hardware",
+    "url": "https://github.com/AlibabaCloud-Official/Qwen3.6"
+  },
+  {
+    "name": "Qwen3 Coder",
+    "category": "coding-model",
+    "mode": "offline-or-hosted",
+    "install": "Choose compatible local quantization or API",
+    "url": "https://huggingface.co/Qwen"
+  },
+  {
+    "name": "DeepSeek V4 Flash",
+    "category": "reasoning-coding",
+    "mode": "hosted-or-self-host-heavy",
+    "install": "API requires account; self-host weights need large GPU",
+    "url": "https://deepseek.com/en/news/v4-preview/"
+  },
+  {
+    "name": "DeepSeek R1 Distill Qwen 1.5B",
+    "category": "reasoning-model",
+    "mode": "offline-light",
+    "install": "Download weights; local inference supported",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "name": "Z.ai GLM models",
+    "category": "coding-model",
+    "mode": "hosted-or-self-host",
+    "install": "Select an open-weight GLM model; verify model license",
+    "url": "https://huggingface.co/zai-org"
+  },
+  {
+    "name": "Stable Diffusion 3.5",
+    "category": "image-generation",
+    "mode": "offline-gpu",
+    "install": "Install ComfyUI and obtain model weights; review license",
+    "url": "https://huggingface.co/stabilityai"
+  },
+  {
+    "name": "Stable Diffusion XL",
+    "category": "image-generation",
+    "mode": "offline-gpu",
+    "install": "Install ComfyUI and SDXL weights",
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+  },
+  {
+    "name": "FLUX.1 schnell",
+    "category": "image-generation",
+    "mode": "offline-gpu",
+    "install": "Install ComfyUI or Diffusers; Apache-2.0 model",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+  },
+  {
+    "name": "FLUX.1 dev",
+    "category": "image-generation",
+    "mode": "offline-gpu",
+    "install": "Non-commercial license; check terms before public use",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+  },
+  {
+    "name": "FLUX 3 Image Klein",
+    "category": "image-generation",
+    "mode": "offline-gpu",
+    "install": "Review FLUX Kommunity License and hardware requirements",
+    "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+  },
+  {
+    "name": "Wan 2.2",
+    "category": "video-generation",
+    "mode": "offline-heavy",
+    "install": "Requires GPU and model weights",
+    "url": "https://github.com/Wan-Video/Wan2.2"
+  },
+  {
+    "name": "Hugging Face Spaces",
+    "category": "model-hub",
+    "mode": "online",
+    "install": "Browse available public inference demos; free limits vary",
+    "url": "https://huggingface.co/spaces"
+  },
+  {
+    "name": "ModelScope",
+    "category": "model-hub",
+    "mode": "online-download",
+    "install": "Alibaba ecosystem alternative model repository",
+    "url": "https://modelscope.cn/models"
+  }
+]

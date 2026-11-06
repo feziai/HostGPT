@@ -1,0 +1,31 @@
+{
+  "id": "heretic",
+  "name": "Heretic LLM modifier",
+  "homepage": "https://github.com/p-e-w/heretic",
+  "license": "AGPL-3.0",
+  "status": "optional_not_installed",
+  "type": "offline_model_weight_modifier",
+  "supports": {
+    "qwen_coder": "architecture_dependent",
+    "mistral": "architecture_dependent",
+    "deepseek": "architecture_dependent",
+    "glm": "architecture_dependent",
+    "dolphin": "architecture_dependent",
+    "ollama": "indirect_export_modified_model",
+    "cline": "indirect_model_backend",
+    "opencode": "indirect_model_backend",
+    "goose": "indirect_model_backend",
+    "stable_diffusion": "not_supported",
+    "flux": "not_supported",
+    "wan": "not_supported",
+    "hunyuanvideo": "not_supported"
+  },
+  "requires": [
+    "Python >=3.10",
+    "PyTorch >=2.6",
+    "compatible Hugging Face model weights",
+    "sufficient CPU/GPU memory"
+  ],
+  "default_behavior": "refusal suppression; explicit opt-in recommended",
+  "security": "never modify arbitrary third-party remote API models; only owned/local weights; retain original model and compare benchmarks"
+}
